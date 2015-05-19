@@ -6,7 +6,7 @@ The default branch is set to **development**.
 ### Contributing to this repository.
 Team members are given **Read access** to this repository.
 You need to fork this repository ,push your work to your fork, and send pull-request to the main repository.
->e.g. a user named User will create a pull-requset as base:LexiconNetworksPvtLtd/Trail---development head:User/Trail---development
+>e.g. a user named User will create a pull-requset as base:LexiconNetworksPvtLtd/Trail---for-yourname head:User/Trail---development
 
 #### Fork the main repository
 Open [LexiconNetworksPvtLtd/Trail](https://github.com/LexiconNetworksPvtLtd/Trail).
@@ -18,7 +18,7 @@ ssh clone url-git@github.com:yourusername/Trail.git
 - Change directory to the desired directory e.g.
 ```Shell
 $ cd d:
-$ cd ui-ux
+$ cd Trail
 ```
 - Initialise a local repository and switch to development branch.
 ```Shell
@@ -30,6 +30,7 @@ $ git checkout -b development
 $ git pull <ssh clone url of your fork>
 ```
 - Now, you can see the directories are on your local machine.
+- You can now start your work locally, when you are done,
 To push your work you need to add, commit then push it to your fork
 ```Shell
 $ git add .
@@ -37,3 +38,4 @@ $ git commit -m "<mandatoty commit message here>"
 $ git push <ssh clone url of your fork>
 ```
 - Now you just need to create a pull-request for the main repo and contribute with your work.
+>e.g. a user named User will create a pull-requset as base:LexiconNetworksPvtLtd/Trail---for-yourname head:User/Trail---development
