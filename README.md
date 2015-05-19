@@ -38,4 +38,5 @@ $ git commit -m "<mandatoty commit message here>"
 $ git push <ssh clone url of your fork>
 ```
 - Now you just need to create a pull-request for the main repo and contribute with your work.
+
 >e.g. a user named User will create a pull-requset as base:LexiconNetworksPvtLtd/Trail---for-yourname head:User/Trail---development
